@@ -1,0 +1,74 @@
+h2 {
+ color: rgb(170, 0, 28);
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  
+}
+
+h1 {
+ color: rgb(255, 209, 130);
+ text-align: center;
+ text-decoration: overline;
+ background-color: rgb(170, 0, 28);
+ font-size: 350%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+img {
+ 
+ width: 100%; 
+}
+
+p {
+  color: rgb(170, 0, 28);
+  font-size: 150%;
+  line-height: 800%;
+  text-align: center;
+  margin-left: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  width: 400px;
+}
+
+span {
+  font-weight: bold;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+#index.html
+
+<link href="main.css" rel="stylesheet">
+
+<img src="peaches.jpg">
+<h2>Summery feast for a Winter's Day</h2>
+<h1>Fiesta Peach Spam Bake</h1>
+<p>
+  <span>Drain</span> 825 mL canned sliced peaches, reserving the syrup.
+</p>
+<p>
+  <span>Slice</span> whole Spam into 5 sections, but not all the way through, so that's still all one piece.
+</p>
+<p>
+  <span>Insert</span> peach slices between the Spam slices. Arrange remaining slices around the Spam.
+</p>
+<p>
+  <span>Blend</span> a quarter of a cup of the reserved syrup with 2 tbsp of brown sugar, and pour over the Spam.
+</p>
+<p>
+  <span>Stud</span> the Spam with cloves.
+</p>
+<p>
+  <span>Bake</span> at 190°C for about 35 minutes.
+</p>
